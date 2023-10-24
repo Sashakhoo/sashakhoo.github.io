@@ -1,25 +1,30 @@
 # 👨‍💻 Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+**Software Engineer** @ [SNS Network Sdn. Bhd.](https://www.sns.com.my/)
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
-- Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+•	Participating in system development and enhancement, including coding, programming, troubleshooting, system study, and system testing.
+•	Preparing, maintaining, and updating system documentation related to data, workflow, logical processes, and interfacing with other systems.
+•	Engaged in training and integrating a suitable Machine Learning model into a web application to perform prediction, forecasting, and regression for various business use cases.
+•	Implement Machine Learning to streamline the workflows of inventory, sales, HR, and other departments by generating predictions for sales and product demand, as well as performing ABC classification using SKU information.
+•	Writing an R script to extract data from SAP Business.
 
-&nbsp;
-
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
-
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
-- Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
 
 &nbsp;
 
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
+**Big Data Analyst Trainee** @ [Strateq Systems Sdn. Bhd.](https://strateqgroup.com/home/)
 
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+•	Analysed data related to business processes to identify inefficiencies and provided recommendations that improved service efficiency and reduced cancellation rates within the sector.
+•	Employed Python to eliminate irrelevant or duplicated information from the dataset, which involved removing data associated with unrelated business tasks and correcting erroneously entered data.
+•	Assisted team members in utilizing Databricks Medallion Architecture to convert raw data into actionable sales insights.
+•	Collaborated with colleagues to explore potential causes of cancellations within the client's business sector.
+
+
+
+&nbsp;
+
+**Data Quality Engineer (Outsourcing)** @ [Petronas Digital Sdn. Bhd.](https://www.petronas.com/)
+
+•	Collaborated with the data engineering team to formulate ETL processes designed to extract data from provided sources.
+•	Transformed the extracted data into a format conducive to usability, aligning with project requirements.
+•	Employed SAP BODS (Business Objects Data Services) to facilitate the extraction, transformation, and loading (ETL) of data.
+•	Developed and executed ETL jobs that effectively loaded the processed data into a designated target database or data warehouse.

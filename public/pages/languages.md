@@ -1,3 +1,5 @@
 # 💬 Languages
-**English**: C1
-**Chinese**: Native
+**English**: Professional
+**Chinese**: Fluent
+**Malay**: Native
+**Cantonese** : Fluent

@@ -54,7 +54,7 @@ export default function App() {
     palette: {
       mode: paletteType,
       background: {
-        default: paletteType === "light" ? "#FFFFFF" : "#1e1e1e",
+        default: paletteType === "light" ? "#FFFFFF" : "#000000",
       },
     },
     components: {
@@ -66,7 +66,7 @@ export default function App() {
       MuiDivider: {
         styleOverrides: {
           root: {
-            borderColor: "rgba(255, 255, 255, 0.12)",
+            borderColor: "rgba(255, 255, 255)",
           },
         },
       },
