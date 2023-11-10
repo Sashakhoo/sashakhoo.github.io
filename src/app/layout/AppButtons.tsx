@@ -105,6 +105,7 @@ export default function AppButtons({
             textTransform: "none",
             backgroundColor: renderButtonBgColor(index),
             color: renderButtonColor(index),
+            border: "2px solid" ,
             "&.MuiButtonBase-root:hover": {
               bgcolor: renderButtonBgColor(index),
             },
@@ -113,7 +114,7 @@ export default function AppButtons({
           }}
         >
           <Box
-            sx={{ color: "#6997d5", width: 20, height: 20, mr: 0.4, ml: -1 }}
+            sx={{ color: "#6997d5", width: 20, height: 30, mr: 0.4, ml: -1 }}
           >
             <VscMarkdown />
           </Box>
