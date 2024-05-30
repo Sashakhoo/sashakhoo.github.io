@@ -6,4 +6,5 @@ module.exports = {
       'imgur.com',
     ],
   },
+  output: 'export',
 };
